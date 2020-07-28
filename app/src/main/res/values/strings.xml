@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi Bengkel Online</string>
+    <string name="move_activity">Bang Beko</string>
+    <string name="move_with_data">Biodata Bang Beko</string>
+    <string name="dial_number">Nomor Telepon</string>
+    <string name="data_received">Data Diterima (Pindah Activity dengan Data)</string>
+    <string name="this_is_moveactivity">Pindah Activity Tanpa Data</string>
+</resources>
